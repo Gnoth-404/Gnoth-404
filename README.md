@@ -7,7 +7,8 @@ I'm an **Embedded Systems Engineer** with a passion for **Robotics**, **IOT**, a
 
 ## 🚀 Featured Projects
 ### 🌟 [Tiny Machine Learning Material Classification](https://github.com/Gnoth-404/Project_Mango)
-
+- **Description:** Designed a system for material classification using **SRF02 ultrasonic sensors** on the **Red Pitaya** platform
+- **Technology:** Signal Processing, Naive Bayes Classifier, Python, Emlearn, Tiny Machine Learning
 
 ### 🌟 [Ohmni Robot: Healthcare Monitor Solution](https://github.com/VGUIngenieurBaeren/OhmniRobot-contest-project)
 - **Description:** Led a 4-member hardware team to develop a healthcare module to diagnose COVID-19 symptoms (heart rate, SpO2) for the Ohmni Robot.
@@ -38,14 +39,18 @@ I'm an **Embedded Systems Engineer** with a passion for **Robotics**, **IOT**, a
 - ROS, Red Pitaya, ESP32, MATLAB, Vue.js, KiCad, STM32, PSOC5
 
 ### Technologies:
-- Embedded Systems, Signal Processing, Machine Learning, Robotics, Tiny Machine Learning (TinyML), PCB Design, 3D Printing
+- Embedded Systems, Signal Processing, Robotics, Tiny Machine Learning (TinyML), PCB Design, 3D Printing
 
 ---
+
+<!---
 
 ## 📊 GitHub Stats
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gnoth-404)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+-->
+
 
 
 📫 Feel free to reach out: anh.hanguyentien@gmail.com
