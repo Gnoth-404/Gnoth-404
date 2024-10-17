@@ -32,16 +32,6 @@ I'm an **Embedded Systems Engineer** with a passion for **Robotics**, **IOT**, a
 ## 🛠 My Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,embedded,ros,linux,docker)](https://skillicons.dev)
 
-### Programming Languages:
-- C, C++, Python
-
-### Platforms & Tools:
-- ROS, Red Pitaya, ESP32, MATLAB, Vue.js, KiCad, STM32, PSOC5
-
-### Technologies:
-- Embedded Systems, Signal Processing, Robotics, Tiny Machine Learning (TinyML), PCB Design, 3D Printing
-
----
 
 <!---
 
