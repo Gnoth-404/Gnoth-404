@@ -1,7 +1,7 @@
-# Hey, I'm [Your Name] 👋
+# Hey, I'm Anh 👋
 I'm an **Embedded Systems Engineer** with a passion for **Robotics**, **IOT**, and **3D Printing**
 
-🌱 Currently working on a **Tiny Machine Learning on OpenMV Camera** using advanced signal processing techniques. Always looking for new challenges to improve my skills in **Embedded Linux**, **robotics**, and **machine learning **.
+🌱 Currently working on a **Tiny Machine Learning on OpenMV Camera** using advanced signal processing techniques. Always looking for new challenges to improve my skills in **Embedded Linux**, **robotics**, and **Machine Learning**.
 
 ---
 
@@ -48,6 +48,6 @@ I'm an **Embedded Systems Engineer** with a passion for **Robotics**, **IOT**, a
 ---
 
 
-📫 Feel free to reach out: [anh.hanguyentien@gmail.com]
+📫 Feel free to reach out: anh.hanguyentien@gmail.com
 
 
