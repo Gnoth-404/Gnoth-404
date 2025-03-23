@@ -1,7 +1,7 @@
 # Hey, I'm Anh 👋
 I'm an **Embedded Systems Engineer** with a passion for **Robotics**, **IOT**, and **3D Printing**
 
-🌱 Currently working on a **Tiny Machine Learning on OpenMV Camera**. Always looking for new challenges to improve my skills in **Embedded Linux**, **Robotics**, and **Machine Learning**.
+🌱 Always looking for new challenges to improve my skills in **Embedded Linux**, **Robotics**, and **Machine Learning**.
 
 ---
 
